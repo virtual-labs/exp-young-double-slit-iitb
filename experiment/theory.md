@@ -1,4 +1,4 @@
-
+<h3>Theory</h3>
 
 <p>The Young&#39;s Double Slit Experiment is a classic demonstration of the wave nature of light,
 revealing the phenomenon of interference. In this experiment, a beam of monochromatic
