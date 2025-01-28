@@ -1,0 +1,688 @@
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/js/activity1.js
+    8:14   warning  'Pannel' is not defined                                  no-undef
+   14:10   warning  'start_act1' is defined but never used                   no-unused-vars
+   21:10   warning  'move_to_activity3' is defined but never used            no-unused-vars
+   24:5    warning  'activity3' is not defined                               no-undef
+   33:5    warning  'global_score' is assigned a value but never used        no-unused-vars
+   34:5    warning  'a1_panel' is defined but never used                     no-unused-vars
+   35:5    warning  'all_text_content' is assigned a value but never used    no-unused-vars
+   36:5    warning  'canvas_box_scale' is already defined                    no-redeclare
+   36:5    warning  'canvas_box_scale' is assigned a value but never used    no-unused-vars
+   37:5    warning  'highlighted_images' is assigned a value but never used  no-unused-vars
+   39:5    warning  'a1_scene' is defined but never used                     no-unused-vars
+   46:5    warning  'display_score' is defined but never used                no-unused-vars
+   47:5    warning  'timer1' is assigned a value but never used              no-unused-vars
+   51:10   warning  'activity1' is defined but never used                    no-unused-vars
+   62:17   warning  'Scene' is not defined                                   no-undef
+   67:27   warning  'bootstrap' is not defined                               no-undef
+  106:18   warning  'Chemistry' is not defined                               no-undef
+  106:42   warning  'grating' is not defined                                 no-undef
+  106:55   warning  'Chemistry' is not defined                               no-undef
+  109:9    warning  'sq' is already defined                                  no-redeclare
+  109:18   warning  'Chemistry' is not defined                               no-undef
+  109:42   warning  'laser2' is not defined                                  no-undef
+  109:54   warning  'Chemistry' is not defined                               no-undef
+  112:9    warning  'sq' is already defined                                  no-redeclare
+  112:18   warning  'Chemistry' is not defined                               no-undef
+  112:42   warning  'diff_pattern' is not defined                            no-undef
+  112:60   warning  'Chemistry' is not defined                               no-undef
+  115:24   warning  'Chemistry' is not defined                               no-undef
+  115:45   warning  'Chemistry' is not defined                               no-undef
+  119:9    warning  'diff_cir' is already defined                            no-redeclare
+  119:24   warning  'Chemistry' is not defined                               no-undef
+  119:45   warning  'Chemistry' is not defined                               no-undef
+  123:9    warning  'diff_cir' is already defined                            no-redeclare
+  123:24   warning  'Chemistry' is not defined                               no-undef
+  123:45   warning  'Chemistry' is not defined                               no-undef
+  181:25   warning  'Chemistry' is not defined                               no-undef
+  181:50   warning  'Chemistry' is not defined                               no-undef
+  192:10   warning  'grating' is not defined                                 no-undef
+  192:19   warning  'grating' is not defined                                 no-undef
+  193:10   warning  'laser2' is not defined                                  no-undef
+  193:18   warning  'laser2' is not defined                                  no-undef
+  194:10   warning  'diff_pattern' is not defined                            no-undef
+  194:24   warning  'diff_pattern' is not defined                            no-undef
+  195:10   warning  'diff_pattern' is not defined                            no-undef
+  195:24   warning  'diff_pattern' is not defined                            no-undef
+  196:10   warning  'diff_pattern' is not defined                            no-undef
+  196:24   warning  'diff_pattern' is not defined                            no-undef
+  199:13   warning  'Chemistry' is not defined                               no-undef
+  199:55   warning  'Chemistry' is not defined                               no-undef
+  200:13   warning  'Chemistry' is not defined                               no-undef
+  200:41   warning  'Chemistry' is not defined                               no-undef
+  201:13   warning  'Chemistry' is not defined                               no-undef
+  201:42   warning  'Chemistry' is not defined                               no-undef
+  202:13   warning  'Chemistry' is not defined                               no-undef
+  202:48   warning  'Chemistry' is not defined                               no-undef
+  203:13   warning  'Chemistry' is not defined                               no-undef
+  203:59   warning  'Chemistry' is not defined                               no-undef
+  204:13   warning  'Chemistry' is not defined                               no-undef
+  204:60   warning  'Chemistry' is not defined                               no-undef
+  210:12   warning  Unexpected constant condition                            no-constant-condition
+  232:49   warning  'Chemistry' is not defined                               no-undef
+  235:39   warning  'bootstrap' is not defined                               no-undef
+  267:30   warning  'Chemistry' is not defined                               no-undef
+  267:73   warning  'Chemistry' is not defined                               no-undef
+  295:13   warning  'bsOffcanvas' is already defined                         no-redeclare
+  295:31   warning  'bootstrap' is not defined                               no-undef
+  297:30   warning  'Chemistry' is not defined                               no-undef
+  297:118  warning  'Chemistry' is not defined                               no-undef
+  340:24   warning  'activity3' is not defined                               no-undef
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/js/activity3.js
+   23:5    warning  'screen_y1' is assigned a value but never used       no-unused-vars
+   24:5    warning  'screen_y2' is assigned a value but never used       no-unused-vars
+   25:5    warning  'current_color_code' is defined but never used       no-unused-vars
+   26:5    warning  'tab_obj' is defined but never used                  no-unused-vars
+   27:5    warning  'obs_started' is assigned a value but never used     no-unused-vars
+   29:5    warning  'pp' is not defined                                  no-undef
+   30:5    warning  'pp' is not defined                                  no-undef
+   31:5    warning  'pp' is not defined                                  no-undef
+   34:5    warning  'pp' is not defined                                  no-undef
+   44:5    warning  'pp' is not defined                                  no-undef
+   80:5    warning  'pp' is not defined                                  no-undef
+   83:5    warning  'pp' is not defined                                  no-undef
+   84:5    warning  'canvas' is not defined                              no-undef
+   84:14   warning  'pp' is not defined                                  no-undef
+   85:5    warning  'context' is not defined                             no-undef
+   85:15   warning  'canvas' is not defined                              no-undef
+   86:5    warning  'canvas' is not defined                              no-undef
+   87:5    warning  'rect' is not defined                                no-undef
+   87:12   warning  'canvas' is not defined                              no-undef
+   88:5    warning  'scene' is not defined                               no-undef
+   88:17   warning  'Scene' is not defined                               no-undef
+   90:22   warning  'Chemistry' is not defined                           no-undef
+   90:43   warning  'Chemistry' is not defined                           no-undef
+   90:75   warning  'canvas' is not defined                              no-undef
+   91:27   warning  'Chemistry' is not defined                           no-undef
+   91:48   warning  'Chemistry' is not defined                           no-undef
+   91:79   warning  'canvas' is not defined                              no-undef
+   92:28   warning  'Chemistry' is not defined                           no-undef
+   92:49   warning  'Chemistry' is not defined                           no-undef
+   92:80   warning  'canvas' is not defined                              no-undef
+   93:18   warning  'Chemistry' is not defined                           no-undef
+   93:79   warning  'canvas' is not defined                              no-undef
+   94:18   warning  'Chemistry' is not defined                           no-undef
+   94:79   warning  'canvas' is not defined                              no-undef
+   95:18   warning  'Chemistry' is not defined                           no-undef
+   95:51   warning  'Chemistry' is not defined                           no-undef
+   95:79   warning  'canvas' is not defined                              no-undef
+   96:19   warning  'Chemistry' is not defined                           no-undef
+   96:52   warning  'Chemistry' is not defined                           no-undef
+   96:80   warning  'canvas' is not defined                              no-undef
+   97:18   warning  'Chemistry' is not defined                           no-undef
+   97:52   warning  'Chemistry' is not defined                           no-undef
+   97:80   warning  'canvas' is not defined                              no-undef
+   98:22   warning  'Chemistry' is not defined                           no-undef
+   98:41   warning  'Chemistry' is not defined                           no-undef
+   98:72   warning  'Chemistry' is not defined                           no-undef
+   98:110  warning  'canvas' is not defined                              no-undef
+   99:22   warning  'Chemistry' is not defined                           no-undef
+   99:41   warning  'Chemistry' is not defined                           no-undef
+   99:73   warning  'Chemistry' is not defined                           no-undef
+   99:113  warning  'canvas' is not defined                              no-undef
+  100:24   warning  'Chemistry' is not defined                           no-undef
+  100:43   warning  'Chemistry' is not defined                           no-undef
+  100:76   warning  'Chemistry' is not defined                           no-undef
+  100:114  warning  'canvas' is not defined                              no-undef
+  101:25   warning  'Chemistry' is not defined                           no-undef
+  101:44   warning  'Chemistry' is not defined                           no-undef
+  101:77   warning  'Chemistry' is not defined                           no-undef
+  101:115  warning  'canvas' is not defined                              no-undef
+  102:25   warning  'Chemistry' is not defined                           no-undef
+  102:44   warning  'Chemistry' is not defined                           no-undef
+  102:77   warning  'Chemistry' is not defined                           no-undef
+  102:117  warning  'canvas' is not defined                              no-undef
+  103:26   warning  'Chemistry' is not defined                           no-undef
+  103:45   warning  'Chemistry' is not defined                           no-undef
+  103:78   warning  'Chemistry' is not defined                           no-undef
+  103:118  warning  'canvas' is not defined                              no-undef
+  104:5    warning  'scene' is not defined                               no-undef
+  105:5    warning  'scene' is not defined                               no-undef
+  106:5    warning  'scene' is not defined                               no-undef
+  107:5    warning  'scene' is not defined                               no-undef
+  108:5    warning  'scene' is not defined                               no-undef
+  109:5    warning  'scene' is not defined                               no-undef
+  110:5    warning  'scene' is not defined                               no-undef
+  111:5    warning  'scene' is not defined                               no-undef
+  112:5    warning  'scene' is not defined                               no-undef
+  113:5    warning  'scene' is not defined                               no-undef
+  114:5    warning  'scene' is not defined                               no-undef
+  115:5    warning  'scene' is not defined                               no-undef
+  116:5    warning  'scene' is not defined                               no-undef
+  117:5    warning  'scene' is not defined                               no-undef
+  124:13   warning  'Chemistry' is not defined                           no-undef
+  124:41   warning  'Chemistry' is not defined                           no-undef
+  124:69   warning  'canvas' is not defined                              no-undef
+  125:13   warning  'Chemistry' is not defined                           no-undef
+  125:41   warning  'Chemistry' is not defined                           no-undef
+  125:69   warning  'canvas' is not defined                              no-undef
+  126:13   warning  'Chemistry' is not defined                           no-undef
+  126:41   warning  'Chemistry' is not defined                           no-undef
+  126:69   warning  'canvas' is not defined                              no-undef
+  127:13   warning  'Chemistry' is not defined                           no-undef
+  127:41   warning  'Chemistry' is not defined                           no-undef
+  127:69   warning  'canvas' is not defined                              no-undef
+  128:13   warning  'Chemistry' is not defined                           no-undef
+  128:41   warning  'Chemistry' is not defined                           no-undef
+  128:69   warning  'canvas' is not defined                              no-undef
+  129:13   warning  'Chemistry' is not defined                           no-undef
+  129:41   warning  'Chemistry' is not defined                           no-undef
+  129:69   warning  'canvas' is not defined                              no-undef
+  130:13   warning  'Chemistry' is not defined                           no-undef
+  130:41   warning  'Chemistry' is not defined                           no-undef
+  130:69   warning  'canvas' is not defined                              no-undef
+  131:13   warning  'Chemistry' is not defined                           no-undef
+  131:41   warning  'Chemistry' is not defined                           no-undef
+  131:69   warning  'canvas' is not defined                              no-undef
+  132:13   warning  'Chemistry' is not defined                           no-undef
+  132:41   warning  'Chemistry' is not defined                           no-undef
+  132:69   warning  'canvas' is not defined                              no-undef
+  133:13   warning  'Chemistry' is not defined                           no-undef
+  133:42   warning  'Chemistry' is not defined                           no-undef
+  133:70   warning  'canvas' is not defined                              no-undef
+  134:13   warning  'Chemistry' is not defined                           no-undef
+  134:42   warning  'Chemistry' is not defined                           no-undef
+  134:70   warning  'canvas' is not defined                              no-undef
+  137:24   warning  'Chemistry' is not defined                           no-undef
+  137:44   warning  'canvas' is not defined                              no-undef
+  137:63   warning  'canvas' is not defined                              no-undef
+  137:85   warning  'Chemistry' is not defined                           no-undef
+  137:112  warning  'canvas' is not defined                              no-undef
+  139:25   warning  'Chemistry' is not defined                           no-undef
+  139:45   warning  'canvas' is not defined                              no-undef
+  139:66   warning  'canvas' is not defined                              no-undef
+  139:88   warning  'Chemistry' is not defined                           no-undef
+  139:116  warning  'canvas' is not defined                              no-undef
+  141:20   warning  'Chemistry' is not defined                           no-undef
+  141:64   warning  'Chemistry' is not defined                           no-undef
+  141:94   warning  'canvas' is not defined                              no-undef
+  143:25   warning  'Chemistry' is not defined                           no-undef
+  143:70   warning  'Chemistry' is not defined                           no-undef
+  143:98   warning  'canvas' is not defined                              no-undef
+  145:15   warning  'Chemistry' is not defined                           no-undef
+  145:37   warning  'Chemistry' is not defined                           no-undef
+  145:73   warning  'canvas' is not defined                              no-undef
+  146:25   warning  'Chemistry' is not defined                           no-undef
+  146:49   warning  'graph' is not defined                               no-undef
+  146:60   warning  'Chemistry' is not defined                           no-undef
+  146:111  warning  'canvas' is not defined                              no-undef
+  147:28   warning  'Chemistry' is not defined                           no-undef
+  147:52   warning  'x_scale_left' is not defined                        no-undef
+  147:70   warning  'Chemistry' is not defined                           no-undef
+  147:122  warning  'canvas' is not defined                              no-undef
+  148:25   warning  'Chemistry' is not defined                           no-undef
+  148:49   warning  'laser' is not defined                               no-undef
+  148:60   warning  'Chemistry' is not defined                           no-undef
+  148:110  warning  'canvas' is not defined                              no-undef
+  155:5    warning  'scene' is not defined                               no-undef
+  156:5    warning  'scene' is not defined                               no-undef
+  157:5    warning  'scene' is not defined                               no-undef
+  158:5    warning  'scene' is not defined                               no-undef
+  159:5    warning  'scene' is not defined                               no-undef
+  162:5    warning  'scene' is not defined                               no-undef
+  166:9    warning  'scene' is not defined                               no-undef
+  175:5    warning  'scene' is not defined                               no-undef
+  178:5    warning  'canvas' is not defined                              no-undef
+  179:5    warning  'canvas' is not defined                              no-undef
+  179:23   warning  'canvas' is not defined                              no-undef
+  180:5    warning  'lscale' is not defined                              no-undef
+  180:14   warning  'canvas' is not defined                              no-undef
+  182:9    warning  'canvas' is not defined                              no-undef
+  186:5    warning  'context' is not defined                             no-undef
+  186:26   warning  'canvas' is not defined                              no-undef
+  187:5    warning  'context' is not defined                             no-undef
+  192:25   warning  'N_values' is not defined                            no-undef
+  193:46   warning  'N_values' is not defined                            no-undef
+  193:62   warning  'N_values' is not defined                            no-undef
+  196:10   warning  'set_N' is defined but never used                    no-unused-vars
+  201:9    warning  'selected_N' is not defined                          no-undef
+  203:9    warning  'd_value' is not defined                             no-undef
+  204:27   warning  'd_value' is not defined                             no-undef
+  205:27   warning  'd_value' is not defined                             no-undef
+  210:9    warning  'scene' is not defined                               no-undef
+  212:9    warning  'selected_n' is not defined                          no-undef
+  217:28   warning  'selected_N' is not defined                          no-undef
+  221:37   warning  'selected_adj' is not defined                        no-undef
+  221:71   warning  'selected_lambda' is not defined                     no-undef
+  221:97   warning  'd_value' is not defined                             no-undef
+  223:38   warning  'selected_adj' is not defined                        no-undef
+  223:76   warning  'selected_lambda' is not defined                     no-undef
+  223:102  warning  'd_value' is not defined                             no-undef
+  225:38   warning  'selected_adj' is not defined                        no-undef
+  225:72   warning  'selected_lambda' is not defined                     no-undef
+  225:98   warning  'd_value' is not defined                             no-undef
+  227:39   warning  'selected_adj' is not defined                        no-undef
+  227:77   warning  'selected_lambda' is not defined                     no-undef
+  227:103  warning  'd_value' is not defined                             no-undef
+  228:26   warning  'selected_adj' is not defined                        no-undef
+  228:60   warning  'selected_lambda' is not defined                     no-undef
+  228:86   warning  'd_value' is not defined                             no-undef
+  231:44   warning  'selected_adj' is not defined                        no-undef
+  231:78   warning  'selected_lambda' is not defined                     no-undef
+  231:104  warning  'd_value' is not defined                             no-undef
+  232:45   warning  'selected_adj' is not defined                        no-undef
+  232:83   warning  'selected_lambda' is not defined                     no-undef
+  232:109  warning  'd_value' is not defined                             no-undef
+  234:10   warning  'set_order' is defined but never used                no-unused-vars
+  239:9    warning  'selected_n' is not defined                          no-undef
+  248:10   warning  'set_lambda' is defined but never used               no-unused-vars
+  250:9    warning  'reading' is assigned a value but never used         no-unused-vars
+  253:5    warning  'selected_lambda' is not defined                     no-undef
+  264:5    warning  'scene' is not defined                               no-undef
+  267:10   warning  'set_adj' is defined but never used                  no-unused-vars
+  269:9    warning  'show' is assigned a value but never used            no-unused-vars
+  283:9    warning  'scene' is not defined                               no-undef
+  285:5    warning  'selected_adj' is not defined                        no-undef
+  288:29   warning  'data' is not defined                                no-undef
+  289:17   warning  'data' is not defined                                no-undef
+  289:49   warning  'selected_lambda' is not defined                     no-undef
+  290:17   warning  'selected_index' is assigned a value but never used  no-unused-vars
+  296:25   warning  'opp' is not defined                                 no-undef
+  300:25   warning  'data' is not defined                                no-undef
+  301:24   warning  'data' is not defined                                no-undef
+  301:57   warning  'selected_lambda' is not defined                     no-undef
+  302:13   warning  'selected_index' is assigned a value but never used  no-unused-vars
+  305:23   warning  'd_value' is not defined                             no-undef
+  306:23   warning  'd_value' is not defined                             no-undef
+  312:28   warning  'selected_adj' is not defined                        no-undef
+  314:10   warning  'draw_dots' is defined but never used                no-unused-vars
+  332:32   warning  'selected_adj' is not defined                        no-undef
+  332:66   warning  'selected_lambda' is not defined                     no-undef
+  332:92   warning  'd_value' is not defined                             no-undef
+  333:33   warning  'selected_adj' is not defined                        no-undef
+  333:67   warning  'selected_lambda' is not defined                     no-undef
+  333:93   warning  'd_value' is not defined                             no-undef
+  334:9    warning  'scene' is not defined                               no-undef
+  346:32   warning  'selected_adj' is not defined                        no-undef
+  346:66   warning  'selected_lambda' is not defined                     no-undef
+  346:92   warning  'd_value' is not defined                             no-undef
+  347:33   warning  'selected_adj' is not defined                        no-undef
+  347:67   warning  'selected_lambda' is not defined                     no-undef
+  347:93   warning  'd_value' is not defined                             no-undef
+  348:9    warning  'scene' is not defined                               no-undef
+  360:32   warning  'selected_adj' is not defined                        no-undef
+  360:66   warning  'selected_lambda' is not defined                     no-undef
+  360:92   warning  'd_value' is not defined                             no-undef
+  361:33   warning  'selected_adj' is not defined                        no-undef
+  361:67   warning  'selected_lambda' is not defined                     no-undef
+  361:93   warning  'd_value' is not defined                             no-undef
+  362:9    warning  'scene' is not defined                               no-undef
+  366:17   warning  'nmToRGB' is not defined                             no-undef
+  366:25   warning  'selected_lambda' is not defined                     no-undef
+  379:30   warning  'selected_adj' is not defined                        no-undef
+  379:64   warning  'selected_lambda' is not defined                     no-undef
+  379:90   warning  'd_value' is not defined                             no-undef
+  380:31   warning  'selected_adj' is not defined                        no-undef
+  380:69   warning  'selected_lambda' is not defined                     no-undef
+  380:95   warning  'd_value' is not defined                             no-undef
+  383:10   warning  'show_offcanvas' is defined but never used           no-unused-vars
+  384:27   warning  'bootstrap' is not defined                           no-undef
+  387:10   warning  'hide_offcanvas' is defined but never used           no-unused-vars
+  388:27   warning  'bootstrap' is not defined                           no-undef
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/js/activity4.js
+   1:5   warning  'verify_count' is assigned a value but never used  no-unused-vars
+   2:5   warning  'res_1' is defined but never used                  no-unused-vars
+   3:5   warning  'res_2' is defined but never used                  no-unused-vars
+   4:10  warning  'activity4' is defined but never used              no-unused-vars
+   5:5   warning  'pp' is not defined                                no-undef
+   6:5   warning  'pp' is not defined                                no-undef
+   7:5   warning  'pp' is not defined                                no-undef
+   8:5   warning  'pp' is not defined                                no-undef
+   9:5   warning  'pp' is not defined                                no-undef
+  11:5   warning  'pp' is not defined                                no-undef
+  13:10  warning  'start_again' is defined but never used            no-unused-vars
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/js/common.js
+   1:10  warning  'verify_values' is defined but never used                no-unused-vars
+  18:10  warning  'std_deviation' is defined but never used                no-unused-vars
+  23:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  40:10  warning  'ascending_random_array' is defined but never used       no-unused-vars
+  42:12  warning  Unexpected constant condition                            no-constant-condition
+  59:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/js/data.js
+   1:5  warning  'selected_N' is assigned a value but never used       no-unused-vars
+   2:5  warning  'selected_n' is assigned a value but never used       no-unused-vars
+   3:5  warning  'selected_lambda' is assigned a value but never used  no-unused-vars
+   4:5  warning  'selected_adj' is assigned a value but never used     no-unused-vars
+   5:5  warning  'd_value' is assigned a value but never used          no-unused-vars
+   6:5  warning  'opp' is defined but never used                       no-unused-vars
+   7:5  warning  'opp_order1' is defined but never used                no-unused-vars
+   8:5  warning  'opp_order2' is defined but never used                no-unused-vars
+   9:5  warning  'opp_order3' is defined but never used                no-unused-vars
+  10:5  warning  'N_values' is assigned a value but never used         no-unused-vars
+  11:5  warning  'n_values' is assigned a value but never used         no-unused-vars
+  14:5  warning  'table_heading' is assigned a value but never used    no-unused-vars
+  15:5  warning  'data' is assigned a value but never used             no-unused-vars
+  18:5  warning  'tab_data' is assigned a value but never used         no-unused-vars
+  19:5  warning  'nmToRGB' is assigned a value but never used          no-unused-vars
+  56:5  warning  Unnecessary semicolon                                 no-extra-semi
+  70:5  warning  Unnecessary semicolon                                 no-extra-semi
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/js/dummy.js
+  2:14  warning  'Pannel' is not defined  no-undef
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/js/geomerty.js
+   33:49   warning  'lscale' is not defined          no-undef
+   34:49   warning  'lscale' is not defined          no-undef
+   46:23   warning  'pt1' is defined but never used  no-unused-vars
+   46:28   warning  'pt2' is defined but never used  no-unused-vars
+   46:33   warning  'pt3' is defined but never used  no-unused-vars
+   50:24   warning  'geo' is defined but never used  no-unused-vars
+   69:44   warning  'lscale' is not defined          no-undef
+   69:66   warning  'lscale' is not defined          no-undef
+   69:88   warning  'lscale' is not defined          no-undef
+   82:48   warning  'lscale' is not defined          no-undef
+   83:48   warning  'lscale' is not defined          no-undef
+  108:47   warning  'lscale' is not defined          no-undef
+  108:69   warning  'lscale' is not defined          no-undef
+  109:60   warning  'lscale' is not defined          no-undef
+  109:95   warning  'lscale' is not defined          no-undef
+  131:39   warning  'lscale' is not defined          no-undef
+  131:57   warning  'lscale' is not defined          no-undef
+  132:39   warning  'lscale' is not defined          no-undef
+  132:57   warning  'lscale' is not defined          no-undef
+  181:39   warning  'lscale' is not defined          no-undef
+  181:57   warning  'lscale' is not defined          no-undef
+  182:39   warning  'lscale' is not defined          no-undef
+  182:57   warning  'lscale' is not defined          no-undef
+  225:33   warning  'lscale' is not defined          no-undef
+  226:33   warning  'lscale' is not defined          no-undef
+  274:50   warning  'lscale' is not defined          no-undef
+  274:72   warning  'lscale' is not defined          no-undef
+  279:61   warning  'lscale' is not defined          no-undef
+  279:84   warning  'lscale' is not defined          no-undef
+  279:102  warning  'lscale' is not defined          no-undef
+  279:120  warning  'lscale' is not defined          no-undef
+  293:33   warning  'lscale' is not defined          no-undef
+  294:33   warning  'lscale' is not defined          no-undef
+  295:41   warning  'lscale' is not defined          no-undef
+  295:64   warning  'lscale' is not defined          no-undef
+  295:98   warning  'lscale' is not defined          no-undef
+  295:121  warning  'lscale' is not defined          no-undef
+  296:45   warning  'lscale' is not defined          no-undef
+  296:68   warning  'lscale' is not defined          no-undef
+  296:102  warning  'lscale' is not defined          no-undef
+  296:125  warning  'lscale' is not defined          no-undef
+  323:61   warning  'lscale' is not defined          no-undef
+  323:90   warning  'lscale' is not defined          no-undef
+  324:61   warning  'lscale' is not defined          no-undef
+  324:96   warning  'lscale' is not defined          no-undef
+  325:66   warning  'lscale' is not defined          no-undef
+  325:101  warning  'lscale' is not defined          no-undef
+  326:66   warning  'lscale' is not defined          no-undef
+  326:100  warning  'lscale' is not defined          no-undef
+  327:67   warning  'lscale' is not defined          no-undef
+  327:101  warning  'lscale' is not defined          no-undef
+  328:67   warning  'lscale' is not defined          no-undef
+  328:96   warning  'lscale' is not defined          no-undef
+  329:61   warning  'lscale' is not defined          no-undef
+  329:90   warning  'lscale' is not defined          no-undef
+  346:33   warning  'lscale' is not defined          no-undef
+  347:33   warning  'lscale' is not defined          no-undef
+  376:46   warning  'lscale' is not defined          no-undef
+  382:50   warning  'lscale' is not defined          no-undef
+  382:72   warning  'lscale' is not defined          no-undef
+  411:52   warning  'lscale' is not defined          no-undef
+  411:79   warning  'lscale' is not defined          no-undef
+  413:56   warning  'lscale' is not defined          no-undef
+  413:83   warning  'lscale' is not defined          no-undef
+  450:50   warning  'lscale' is not defined          no-undef
+  450:72   warning  'lscale' is not defined          no-undef
+  456:61   warning  'lscale' is not defined          no-undef
+  456:84   warning  'lscale' is not defined          no-undef
+  456:102  warning  'lscale' is not defined          no-undef
+  456:120  warning  'lscale' is not defined          no-undef
+  470:33   warning  'lscale' is not defined          no-undef
+  471:33   warning  'lscale' is not defined          no-undef
+  472:41   warning  'lscale' is not defined          no-undef
+  472:64   warning  'lscale' is not defined          no-undef
+  472:98   warning  'lscale' is not defined          no-undef
+  472:121  warning  'lscale' is not defined          no-undef
+  473:45   warning  'lscale' is not defined          no-undef
+  473:68   warning  'lscale' is not defined          no-undef
+  473:102  warning  'lscale' is not defined          no-undef
+  473:125  warning  'lscale' is not defined          no-undef
+  502:50   warning  'lscale' is not defined          no-undef
+  502:72   warning  'lscale' is not defined          no-undef
+  507:139  warning  'lscale' is not defined          no-undef
+  507:172  warning  'lscale' is not defined          no-undef
+  507:205  warning  'lscale' is not defined          no-undef
+  507:225  warning  'lscale' is not defined          no-undef
+  528:50   warning  'lscale' is not defined          no-undef
+  528:72   warning  'lscale' is not defined          no-undef
+  533:139  warning  'lscale' is not defined          no-undef
+  533:172  warning  'lscale' is not defined          no-undef
+  533:205  warning  'lscale' is not defined          no-undef
+  533:225  warning  'lscale' is not defined          no-undef
+  555:50   warning  'lscale' is not defined          no-undef
+  555:72   warning  'lscale' is not defined          no-undef
+  560:133  warning  'lscale' is not defined          no-undef
+  560:172  warning  'lscale' is not defined          no-undef
+  560:205  warning  'lscale' is not defined          no-undef
+  560:224  warning  'lscale' is not defined          no-undef
+  584:39   warning  'lscale' is not defined          no-undef
+  584:53   warning  'lscale' is not defined          no-undef
+  585:39   warning  'lscale' is not defined          no-undef
+  585:53   warning  'lscale' is not defined          no-undef
+  586:39   warning  'lscale' is not defined          no-undef
+  586:53   warning  'lscale' is not defined          no-undef
+  587:39   warning  'lscale' is not defined          no-undef
+  587:53   warning  'lscale' is not defined          no-undef
+  594:36   warning  'lscale' is not defined          no-undef
+  594:50   warning  'lscale' is not defined          no-undef
+  594:63   warning  'lscale' is not defined          no-undef
+  605:36   warning  'lscale' is not defined          no-undef
+  605:50   warning  'lscale' is not defined          no-undef
+  605:63   warning  'lscale' is not defined          no-undef
+  632:46   warning  'lscale' is not defined          no-undef
+  637:50   warning  'lscale' is not defined          no-undef
+  637:72   warning  'lscale' is not defined          no-undef
+  659:50   warning  'lscale' is not defined          no-undef
+  659:72   warning  'lscale' is not defined          no-undef
+  663:46   warning  'lscale' is not defined          no-undef
+  664:46   warning  'lscale' is not defined          no-undef
+  664:67   warning  'lscale' is not defined          no-undef
+  665:49   warning  'lscale' is not defined          no-undef
+  702:13   warning  'context' is not defined         no-undef
+  703:13   warning  'context' is not defined         no-undef
+  703:38   warning  'lscale' is not defined          no-undef
+  703:56   warning  'lscale' is not defined          no-undef
+  704:13   warning  'context' is not defined         no-undef
+  704:38   warning  'lscale' is not defined          no-undef
+  704:56   warning  'lscale' is not defined          no-undef
+  706:13   warning  'context' is not defined         no-undef
+  708:46   warning  'lscale' is not defined          no-undef
+  708:65   warning  'lscale' is not defined          no-undef
+  708:83   warning  'lscale' is not defined          no-undef
+  708:102  warning  'lscale' is not defined          no-undef
+  709:32   warning  'lscale' is not defined          no-undef
+  709:58   warning  'lscale' is not defined          no-undef
+  710:32   warning  'lscale' is not defined          no-undef
+  710:58   warning  'lscale' is not defined          no-undef
+  711:32   warning  'lscale' is not defined          no-undef
+  711:58   warning  'lscale' is not defined          no-undef
+  712:32   warning  'lscale' is not defined          no-undef
+  712:58   warning  'lscale' is not defined          no-undef
+  714:13   warning  'context' is not defined         no-undef
+  715:13   warning  'context' is not defined         no-undef
+  715:38   warning  'lscale' is not defined          no-undef
+  715:56   warning  'lscale' is not defined          no-undef
+  716:13   warning  'context' is not defined         no-undef
+  717:13   warning  'context' is not defined         no-undef
+  717:38   warning  'lscale' is not defined          no-undef
+  717:56   warning  'lscale' is not defined          no-undef
+  718:13   warning  'context' is not defined         no-undef
+  720:13   warning  'context' is not defined         no-undef
+  722:32   warning  'lscale' is not defined          no-undef
+  722:58   warning  'lscale' is not defined          no-undef
+  723:32   warning  'lscale' is not defined          no-undef
+  723:58   warning  'lscale' is not defined          no-undef
+  724:32   warning  'lscale' is not defined          no-undef
+  724:58   warning  'lscale' is not defined          no-undef
+  725:32   warning  'lscale' is not defined          no-undef
+  725:58   warning  'lscale' is not defined          no-undef
+  727:13   warning  'context' is not defined         no-undef
+  728:13   warning  'context' is not defined         no-undef
+  728:38   warning  'lscale' is not defined          no-undef
+  728:56   warning  'lscale' is not defined          no-undef
+  729:13   warning  'context' is not defined         no-undef
+  730:13   warning  'context' is not defined         no-undef
+  730:38   warning  'lscale' is not defined          no-undef
+  730:56   warning  'lscale' is not defined          no-undef
+  731:13   warning  'context' is not defined         no-undef
+  733:13   warning  'context' is not defined         no-undef
+  750:50   warning  'lscale' is not defined          no-undef
+  750:72   warning  'lscale' is not defined          no-undef
+  766:38   warning  'lscale' is not defined          no-undef
+  766:51   warning  'lscale' is not defined          no-undef
+  768:38   warning  'lscale' is not defined          no-undef
+  770:38   warning  'lscale' is not defined          no-undef
+  770:52   warning  'lscale' is not defined          no-undef
+  800:43   warning  'lscale' is not defined          no-undef
+  800:61   warning  'lscale' is not defined          no-undef
+  801:43   warning  'lscale' is not defined          no-undef
+  801:61   warning  'lscale' is not defined          no-undef
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/js/obs_table.js
+   2:5    warning  'table_heading' is not defined                          no-undef
+   4:5    warning  'tab_obj' is not defined                                no-undef
+   4:19   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is not defined  no-undef
+   4:57   warning  'table_heading' is not defined                          no-undef
+   4:72   warning  'data' is not defined                                   no-undef
+   5:5    warning  'tab_obj' is not defined                                no-undef
+   7:10   warning  'update_table' is defined but never used                no-unused-vars
+   8:10   warning  'obs_started' is not defined                            no-undef
+   9:9    warning  'data' is not defined                                   no-undef
+  10:9    warning  'obs_started' is not defined                            no-undef
+  12:15   warning  'selected_adj' is not defined                           no-undef
+  12:49   warning  'selected_lambda' is not defined                        no-undef
+  12:75   warning  'd_value' is not defined                                no-undef
+  13:15   warning  'selected_adj' is not defined                           no-undef
+  13:53   warning  'selected_lambda' is not defined                        no-undef
+  13:79   warning  'd_value' is not defined                                no-undef
+  14:15   warning  'data' is not defined                                   no-undef
+  14:32   warning  'selected_lambda' is not defined                        no-undef
+  14:49   warning  'selected_adj' is not defined                           no-undef
+  14:63   warning  'd_value' is not defined                                no-undef
+  15:5    warning  'data' is not defined                                   no-undef
+  16:5    warning  'table_heading' is not defined                          no-undef
+  19:5    warning  'tab_obj' is not defined                                no-undef
+  19:19   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is not defined  no-undef
+  19:57   warning  'table_heading' is not defined                          no-undef
+  19:72   warning  'data' is not defined                                   no-undef
+  19:79   warning  'data' is not defined                                   no-undef
+  19:146  warning  'hide_offcanvas' is not defined                         no-undef
+  20:5    warning  'tab_obj' is not defined                                no-undef
+  21:5    warning  'show_offcanvas' is not defined                         no-undef
+  25:9    warning  'data' is not defined                                   no-undef
+  27:9    warning  'activity4' is not defined                              no-undef
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/js/pannel.js
+    8:7  warning  'Pannel' is defined but never used  no-unused-vars
+  152:7  warning  'Table2' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/js/scene.js
+   1:7    warning  'Scene' is defined but never used         no-unused-vars
+  11:9    warning  'context' is not defined                  no-undef
+  11:33   warning  'canvas' is not defined                   no-undef
+  11:47   warning  'canvas' is not defined                   no-undef
+  27:5    warning  'context' is not defined                  no-undef
+  28:9    warning  'grd' is assigned a value but never used  no-unused-vars
+  28:15   warning  'context' is not defined                  no-undef
+  28:44   warning  'canvas' is not defined                   no-undef
+  28:62   warning  'canvas' is not defined                   no-undef
+  28:84   warning  'canvas' is not defined                   no-undef
+  28:102  warning  'canvas' is not defined                   no-undef
+  28:121  warning  'canvas' is not defined                   no-undef
+  36:5    warning  'context' is not defined                  no-undef
+  37:5    warning  'context' is not defined                  no-undef
+  37:28   warning  'canvas' is not defined                   no-undef
+  37:42   warning  'canvas' is not defined                   no-undef
+  38:5    warning  'context' is not defined                  no-undef
+  39:5    warning  'context' is not defined                  no-undef
+
+/home/runner/work/exp-young-double-slit-iitb/exp-young-double-slit-iitb/experiment/simulation/js/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+✖ 646 problems (0 errors, 646 warnings)
+  0 errors and 2 warnings potentially fixable with the `--fix` option.
+
