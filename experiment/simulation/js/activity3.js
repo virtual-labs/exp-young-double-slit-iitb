@@ -32,6 +32,7 @@ function activity3() {
     //-----------------------------------------------------------------
     // for second offcanvas button
     pp.addoffcanvas(4);
+    pp.showtitle(`<span>$$ \\lambda = \\frac{y \\times d}{L \\times n} $$</span>`, 4);
     let offcnvbtns = document.getElementsByClassName('offcanvasbtn');
     let offcnvbtn = offcnvbtns[1];
     offcnvbtn.style.position = 'absolute';
@@ -118,20 +119,21 @@ function activity3() {
     window.onload = a2_windowresize;
     window.onresize = a2_windowresize;
     a2_windowresize();
+    MathJax.typeset();
 }
 function draw_rec() {
     let graph_unit = [
-        new Chemistry.Geo_Text('1', new Chemistry.Point(1455, 393), canvas),
-        new Chemistry.Geo_Text('2', new Chemistry.Point(1455, 420), canvas),
-        new Chemistry.Geo_Text('3', new Chemistry.Point(1455, 448), canvas),
-        new Chemistry.Geo_Text('4', new Chemistry.Point(1455, 474), canvas),
-        new Chemistry.Geo_Text('5', new Chemistry.Point(1455, 502), canvas),
-        new Chemistry.Geo_Text('6', new Chemistry.Point(1455, 528), canvas),
-        new Chemistry.Geo_Text('7', new Chemistry.Point(1455, 554), canvas),
-        new Chemistry.Geo_Text('8', new Chemistry.Point(1455, 582), canvas),
-        new Chemistry.Geo_Text('9', new Chemistry.Point(1455, 610), canvas),
-        new Chemistry.Geo_Text('10', new Chemistry.Point(1455, 638), canvas),
-        new Chemistry.Geo_Text('11', new Chemistry.Point(1455, 665), canvas),
+        new Chemistry.Geo_Text('0', new Chemistry.Point(1455, 393), canvas),
+        new Chemistry.Geo_Text('', new Chemistry.Point(1455, 420), canvas),
+        new Chemistry.Geo_Text('0.26', new Chemistry.Point(1455, 448), canvas),
+        new Chemistry.Geo_Text('', new Chemistry.Point(1455, 474), canvas),
+        new Chemistry.Geo_Text('0.52', new Chemistry.Point(1455, 502), canvas),
+        new Chemistry.Geo_Text('', new Chemistry.Point(1455, 528), canvas),
+        new Chemistry.Geo_Text('0.78', new Chemistry.Point(1455, 554), canvas),
+        new Chemistry.Geo_Text('', new Chemistry.Point(1455, 582), canvas),
+        new Chemistry.Geo_Text('1.04', new Chemistry.Point(1455, 610), canvas),
+        new Chemistry.Geo_Text('', new Chemistry.Point(1455, 638), canvas),
+        new Chemistry.Geo_Text('1.30', new Chemistry.Point(1455, 665), canvas),
     ];
     //define left_rectangle
     let left_rec = new Chemistry.Rectangle(canvas.height * 9, canvas.width * 2, new Chemistry.Point(100, 100), canvas);
@@ -218,18 +220,18 @@ function set_N() {
 }
 function update_d() {
     first_up_ray.y1 = d_y1;
-    first_up_ray.y2 = 393 + 65000 * selected_adj * Math.tan(Math.asin(selected_lambda * 1e-9 / (d_value * 1e-3)));
+    first_up_ray.y2 = 393 + 65000 * selected_adj * Math.tan(Math.asin(selected_lambda * 1e-9 / (0.3 * d_value * 1e-3)));
     second_up_ray.y1 = d_y1;
-    second_up_ray.y2 = 393 + 65000 * selected_adj * Math.tan(Math.asin(2 * selected_lambda * 1e-9 / (d_value * 1e-3)));
+    second_up_ray.y2 = 393 + 65000 * selected_adj * Math.tan(Math.asin(2 * selected_lambda * 1e-9 / (0.3 * d_value * 1e-3)));
     first_up2_ray.y1 = d_y2;
-    first_up2_ray.y2 = 393 + 65000 * selected_adj * Math.tan(Math.asin(selected_lambda * 1e-9 / (d_value * 1e-3)));
+    first_up2_ray.y2 = 393 + 65000 * selected_adj * Math.tan(Math.asin(selected_lambda * 1e-9 / (0.3 * d_value * 1e-3)));
     second_up2_ray.y1 = d_y2;
-    second_up2_ray.y2 = 393 + 65000 * selected_adj * Math.tan(Math.asin(2 * selected_lambda * 1e-9 / (d_value * 1e-3)));
-    console.log(650000 * selected_adj * Math.tan(Math.asin(selected_lambda * 1e-9 / (d_value * 1e-3))));
+    second_up2_ray.y2 = 393 + 65000 * selected_adj * Math.tan(Math.asin(2 * selected_lambda * 1e-9 / (0.3 * d_value * 1e-3)));
+    console.log(650000 * selected_adj * Math.tan(Math.asin(selected_lambda * 1e-9 / (0.3 * d_value * 1e-3))));
 }
 function update_dots() {
-    first_upper_dot.stpt.y = 393 + 65000 * selected_adj * Math.tan(Math.asin(selected_lambda * 1e-9 / (d_value * 1e-3)));
-    second_upper_dot.stpt.y = 393 + 65000 * selected_adj * Math.tan(Math.asin(2 * selected_lambda * 1e-9 / (d_value * 1e-3)));
+    first_upper_dot.stpt.y = 393 + 65000 * selected_adj * Math.tan(Math.asin(selected_lambda * 1e-9 / (0.3 * d_value * 1e-3)));
+    second_upper_dot.stpt.y = 393 + 65000 * selected_adj * Math.tan(Math.asin(2 * selected_lambda * 1e-9 / (0.3 * d_value * 1e-3)));
 }
 function set_order() {
     let n_sel = (document.getElementById('order-dd'));

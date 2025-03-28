@@ -21,7 +21,7 @@ class Verify_Table {
                     return;
                 }
             }
-            alert('All Entered Values are Correct!!');
+            alert('The values entered are correct.');
             if (this.update_values) {
                 for (let j = 0; j < this.verify_col.length; j++) {
                     let val = (document.getElementById(`tab${this.tab_ind}inp${j}`));
@@ -153,7 +153,7 @@ class Verify_Rows_Cols extends Verify_Table {
             }
             button.disabled = true;
             this.rows_to_verify--;
-            alert('Entered Correct Value for this row!!');
+            alert('The values entered are correct.');
             if (this.rows_to_verify <= 0) {
                 this.load_full_table();
                 console.log(this.all_data);
@@ -327,7 +327,7 @@ class Verify_Rows_Cols_Custom_Fixed extends Verify_Rows_Cols {
             }
             button.disabled = true;
             this.rows_to_verify--;
-            alert('Entered Correct Value for this row!!');
+            alert('The values entered are correct.');
             if (this.rows_to_verify <= 0) {
                 this.load_full_table();
                 console.log(this.all_data);
@@ -543,7 +543,7 @@ class Verify_Rows_Cols_Strings extends Verify_Table {
             }
             button.disabled = true;
             this.rows_to_verify--;
-            alert('Entered Correct Value for this row!!');
+            alert('The values entered are correct.');
             if (this.rows_to_verify <= 0) {
                 this.load_full_table();
                 console.log(this.mixed_data);
