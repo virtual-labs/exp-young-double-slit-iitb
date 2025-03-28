@@ -1,0 +1,48 @@
+[
+    {
+    
+        "question": "In the Young's Double Slit Experiment, after you measured the distance between the slits and observed the interference pattern, what relationship did you find between the fringe spacing and the wavelength?",
+        "qid": 1,
+        "option_a": "Fringe spacing is inversely proportional to the wavelength",
+        "option_b": "Fringe spacing is directly proportional to the wavelength",
+        "option_c": "Fringe spacing is independent of the wavelength",
+        "option_d": "Fringe spacing depends only on the distance between slits",
+        "correct_option": "b"
+    },
+    {
+        "question": "If the distance between the slits is halved, how does this affect the fringe spacing?",
+        "qid": 2,
+        "option_a": "It doubles",
+        "option_b": "It halves",
+        "option_c": "It remains the same",
+        "option_d": "It becomes zero",
+        "correct_option": "a"
+    },
+    {
+        "question": "Which of the following changes would decrease the wavelength measured in Young’s double-slit experiment?",
+        "qid": 3,
+        "option_a": "Using light of a shorter wavelength",
+        "option_b": "Increasing the screen distance",
+        "option_c": "Decreasing the slit width",
+        "option_d": "Using a coherent light source",
+        "correct_option": "a"
+    },
+    {
+        "question": "What is the primary purpose of using two slits in Young’s experiment?",
+        "qid": 4,
+        "option_a": "To produce a diffraction pattern",
+        "option_b": "To create two coherent sources of light",
+        "option_c": "To change the intensity of the light",
+        "option_d": "To measure the speed of light",
+        "correct_option": "b"
+    },
+    {
+        "question": "In the context of Young’s experiment, what happens when the wavelength of the light used is increased?",
+        "qid": 5,
+        "option_a": "The pattern becomes brighter ",
+        "option_b": "The fringe spacing decreases",
+        "option_c": "The number of fringes increases",
+        "option_d": "The fringe spacing increases",
+        "correct_option": "d"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "question": "What is the principle behind Young’s double-slit experiment?",
+        "qid": 1,
+        "option_a": "Reflection",
+        "option_b": "Refraction",
+        "option_c": "Interference",
+        "option_d": "Diffraction",
+        "correct_option": "c"
+    },
+    {
+        "question": "In Young’s double-slit experiment, what type of light source is typically used?",
+        "qid": 2,
+        "option_a": "Coherent light source",
+        "option_b": "Incoherent light source",
+        "option_c": "Ultraviolet light",
+        "option_d": "Laser pointer",
+        "correct_option": "a"
+    },
+    {
+        "question": "What does the fringe spacing depend on in the double-slit experiment?",
+        "qid": 3,
+        "option_a": "The color of the light source",
+        "option_b": "The distance between the slits and the screen",
+        "option_c": "The diameter of the slits",
+        "option_d": "The speed of light",
+        "correct_option": "b"
+    },
+    {
+        "question": "What would happen if the slits are moved further apart in the double-slit experiment?",
+        "qid": 4,
+        "option_a": "The fringe spacing would increase",
+        "option_b": "The fringe spacing would decrease",
+        "option_c": "The fringe pattern would disappear",
+        "option_d": "The brightness of fringes would increase",
+        "correct_option": "b"
+    },
+    { 
+        "question": "What is the condition for constructive interference in Young’s double-slit experiment?",
+        "qid": 5,
+        "option_a": "Path difference equals zero",
+        "option_b": "Path difference equals an odd multiple of half the wavelength",
+        "option_c": "Path difference equals an integer multiple of the wavelength",
+        "option_d": "Path difference equals the wavelength divided by the distance",
+        "correct_option": "c"
+    }
+]
